@@ -1,3 +1,5 @@
+//my reference https://www.youtube.com/watch?v=Iho2EdJgusQ
+
 #include <iostream>
 #include <fstream>   // we need this to do read file and write file
 #include <string>
