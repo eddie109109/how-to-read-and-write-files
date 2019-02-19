@@ -1,13 +1,11 @@
 //my reference https://www.youtube.com/watch?v=Iho2EdJgusQ
+// just 3 examples with mains only
 
 #include <iostream>
 #include <fstream>   // we need this to do read file and write file
 #include <string>
 
 using namespace std;
-
-
-
 
 int main() {
    ifstream infile;
